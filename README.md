@@ -26,5 +26,6 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 4. Pousser les modifications vers votre branche : `git push origin feature/nouvelle-fonctionnalité`
 5. Créer une pull request sur le référentiel d'origine
 
-##🛠Ajustements
+## 🛠Ajustements
+
 Aller dans l'index.js pour modifier le prefix et le footer!!!
