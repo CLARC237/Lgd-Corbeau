@@ -1,13 +1,11 @@
-# 🐦 Corbeau Bot ([Rejoignez le serveur](https://discord.gg/USYde8THV6))
+# 🐦 lgd-corbeau ([Rejoignez le serveur](https://discord.gg/K5pxTKXCmC))
 
-Corbeau Bot est un bot pour Discord qui assure des fonctions de modération, antiraid, autoroles et bien plus encore. Le bot est facilement personnalisable et extensible pour répondre aux besoins de votre serveur.
+Corbeau Bot est un bot pour Discord qui assure des fonctions de modération,  autoroles et bien plus encore. Le bot est facilement personnalisable et extensible pour répondre aux besoins de votre serveur.
 
-![Corbeau by Hawk](https://media.discordapp.net/attachments/1102239362890072124/1102257197917929483/image.png?width=657&height=413)
 
 ## Fonctionnalités
 
 - Modération de serveur
-- Antiraid
 - Autoroles
 - Et plus encore !
 
@@ -28,6 +26,5 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 4. Pousser les modifications vers votre branche : `git push origin feature/nouvelle-fonctionnalité`
 5. Créer une pull request sur le référentiel d'origine
 
-## Crédits
-
-Ce bot a été créé par Hawk#4890. Les contributions des utilisateurs sont les bienvenues pour améliorer et étendre les fonctionnalités de ce bot.
+##🛠Ajustements
+Aller dans l'index.js pour modifier le prefix et le footer!!!
