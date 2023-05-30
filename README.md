@@ -1,4 +1,4 @@
-# 🐦 lgd-corbeau ([Rejoignez le serveur](https://discord.gg/K5pxTKXCmC))
+# 🐦 lgd-corbeau ([Rejoignez le serveur](https://discord.gg/MP4k5mRmCM))
 
 Corbeau Bot est un bot pour Discord qui assure des fonctions de modération,  autoroles et bien plus encore. Le bot est facilement personnalisable et extensible pour répondre aux besoins de votre serveur.
 
